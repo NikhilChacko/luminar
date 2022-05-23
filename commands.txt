@@ -1,0 +1,2 @@
+git init - initilize git in the repository youre in 
+git status - list all untracked files

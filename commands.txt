@@ -2,3 +2,6 @@ git init - initilize git in the repository youre in
 git status - list all untracked files
 git add -a = add all changes made to staging area
 git commit -m "commit_name" = add all the changes made to local repository
+git remote add name path
+git push -u name branch(master or main)
+
